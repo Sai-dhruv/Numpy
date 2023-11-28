@@ -1,2 +1,2 @@
 # Numpy
-Numpy for biginers
+Numpy for beginers
